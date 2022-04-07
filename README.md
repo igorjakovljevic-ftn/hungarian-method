@@ -9,3 +9,7 @@ In this simple example there are three workers: Paul, Dave, and Chris. One of th
 The Hungarian method, when applied to the above table, would give the minimum cost: this is $6, achieved by having Paul clean the bathroom, Dave sweep the floors, and Chris wash the windows.
 
 All of the information about the project is located in the project documentation pdf file. The project can be run via any Python IDE.
+
+Created by:
+["Igor Jakovljević"](https://github.com/igorjakovljevic-ftn)
+["Mihajlo Zivković"](https://github.com/mehighlovv)
